@@ -10,8 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
     "express": "4.17.1",
-    "osmosis": "1.1.10"
+    "jsdom": "^16.6.0",
+    "needle": "^2.6.0",
+    "osmosis": "1.1.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.8"
